@@ -1,8 +1,4 @@
-//TODO: this program currently uses the int "1" and int "2" to indicate whether the computer
-//should win in one move or whether to block the opponent from winning, however using the ints
-//to do this creates the chance that a one will appear in a scenario that does not mean instant win
-
-//test case that shows the above problem in action: [2,2,1, 2,1,0, 0,0,0] 
+//Currently No Known Errors
 
 //Ai decision tree program for tic tac toe, this program will only make moves for the computer
 //and thus should only be used on computer turn.
